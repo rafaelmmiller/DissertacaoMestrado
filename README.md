@@ -21,7 +21,12 @@ Podemos pegar as análises da página 4 do relatório do SIICUSP: https://www.dr
 
 Podemos discutir sobre a “interferência” entre tubos também.
 
+__Diferença na excentricidade se calcularmos a partir do centro de massa__.
+
+Comparação KLN, Glauber e NeXus.
+
 Um ponto interessante que ainda não fiz é apresentar outras condições iniciais realistas que possuem diferenças nessas características (IP-Glasma possui tubos mais finos, por exemplo).
+(Artigo da Jaki?)
 
 ### Equação analítica para os coeficientes de Fourier (v_n) para a condição inicial de 1 tubo:
 
@@ -35,6 +40,7 @@ https://www.dropbox.com/s/rg84gdaklrw96j4/Sistematizacao.pdf?dl=0
 
 ### Extrapolação para condições mais realistas:
 
+Manter a densidade de energia constante nas comparações.
 
 
 ### Código 2+1D para hidrodinâmica

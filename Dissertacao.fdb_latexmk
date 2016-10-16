@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1476385528 "Dissertacao.tex" "Dissertacao.pdf" "Dissertacao" 1476385529
+["pdflatex"] 1476460432 "Dissertacao.tex" "Dissertacao.pdf" "Dissertacao" 1476460434
   "./images/variaA.png" 1415099766 38969 5816549b5e13032f20817f404a80d7a9 ""
   "/usr/local/texlive/2015/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2015/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
@@ -74,8 +74,8 @@
   "/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1432479641 1764542 91654ba72bdb667e84ea24f076ae16d8 ""
   "/usr/local/texlive/2015/texmf-var/web2c/pdftex/pdflatex.fmt" 1445354659 3849860 0a8cadd69a77b6eefa224e654c021e39 ""
   "/usr/local/texlive/2015/texmf.cnf" 1432479636 577 0d611272082f3cdb8e80e09a3c69cf07 ""
-  "Dissertacao.aux" 1476385529 1595 d5b13d7e074dcf9c309b13d685bf6ed7 ""
-  "Dissertacao.tex" 1476385160 3314 5282cdfabc3614469e0fa2d68ee3b072 ""
+  "Dissertacao.aux" 1476460433 1976 314a5262174b8caf7c4229b40f124f70 ""
+  "Dissertacao.tex" 1476460417 3445 4b0a4b871e1fae9e6f984079faf1f025 ""
   "images/variaA.png" 1415099766 38969 5816549b5e13032f20817f404a80d7a9 ""
   (generated)
   "Dissertacao.pdf"
